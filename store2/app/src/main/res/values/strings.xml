@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Store</string>
+    <!-- Label for overflow menu option that inserts fake pet data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all pet data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All</string>
+
+    <!-- Title for the activi ty to add a new data [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_data">Add a Data</string>
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <string name="category_quantity">Quantity</string>
+
+
+    <string name="hint_store_name">Product Name</string>
+
+    <string name="hint_store_supplier_phone_number">Supplier Phone Number</string>
+
+    <string name="hint_store_supplier_name">Supplier Name</string>
+
+    <string name="hint_store_quantity">Quantity</string>
+
+    <string name="hint_store_price">Price</string>
+
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a pet [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a data</string>
+
+    <!-- Toast message in editor when new pet has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_successful">Data saved</string>
+
+    <!-- Toast message in editor when new pet has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_failed">Error with saving data</string>
+
+    <string name="editor_activity_title_edit">Edit Data</string>
+
+    <!-- Toast message in editor when current pet was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_successful">Data updated</string>
+    <!-- Toast message in editor when current pet has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_failed">Error with updating data</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+    <!-- Dialog button text for the option to keep editing the current pet [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Toast message in editor when current pet was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_data_successful">Data deleted</string>
+    <!-- Toast message in editor when current pet has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_data_failed">Error with deleting data</string>
+    <!-- Dialog message to ask the user to confirm deleting the current pet [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this data?</string>
+    <!-- Dialog button text for the option to confirm deleting the current pet [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+    <!-- Dialog button text for the option to cancel deletion of the current pet [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <string name="sale">SALE</string>
+    <string name="detail">DETAIL</string>
+    <string name="price">Price : </string>
+    <string name="quantity">Quantity :</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="call_sup">CALL SUPPLIER</string>
+    <string name="quantity_change_message">Quantity changed</string>
+    <string name="quantity_finish_message">Product was finish</string>
+    <string name="required">Requires</string>
+    <string name="price_cannot_be_negative">Price can\'t be negative</string>
+    <string name="quantity_cannot_be_negative">Quantity can\'t be negative</string>
+
+
+</resources>

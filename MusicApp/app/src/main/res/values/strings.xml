@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="favorite">SONGS</string>
+    <string name="playlist">PLAYLISTS</string>
+    <string name="artist">ARTISTS</string>
+    <string name="album">ALBUMS</string>
+    <string name="jhope">J-Hope</string>
+    <string name="myplaylist">My Playlist</string>
+    <string name="hopeworld">Hope World</string>
+    <string-array name="hope_world">
+        <item>Hope World</item>
+        <item>Daydream</item>
+        <item>P.O.P. (Piece of peace)</item>
+        <item>Baseline</item>
+        <item>Hangsang feat. Supreme Boi</item>
+        <item>Airplane</item>
+        <item>Blueside</item>
+    </string-array>
+    <string name="loveyourself">Love Yourself</string>
+    <string-array name="love_yourself">
+        <item>Intro:Serendipity</item>
+        <item>DNA</item>
+        <item>Best Of Me</item>
+        <item>dimple</item>
+        <item>Pied Piper</item>
+        <item>Skit:Billboard Music Awards Speech</item>
+        <item>MIC Drop</item>
+        <item>Go Go</item>
+        <item>Outro:Her</item>
+    </string-array>
+    <string name="bts">BTS</string>
+
+
+</resources>

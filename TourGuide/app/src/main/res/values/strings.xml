@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Istanbul Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="historical">Historical</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="museum">Museum</string>
+    <string name="shop">Shop</string>
+    <string name="bazaar">Bazaar</string>
+
+    <string name="grand_bazaar"> Grand Bazaar </string>
+    <string name="grand_des">The Grand Bazaar (Turkish: Kapalıçarşı, meaning ‘Covered Market’; also Büyük Çarşı, meaning ‘Grand Market’) in Istanbul is one of the largest and oldest covered markets in the world, with 61 covered streets and over 4,000 shops which attract between 250,000 and 400,000 visitors daily.
+        In 2014, it was listed No.1 among the world\'s most-visited tourist attractions with 91,250,000 annual visitors.The Grand Bazar at Istanbul is often regarded as one of the first shopping malls of the world.
+    \nGrand Bazaar Opening Hours :
+    \n\tWeekdays from 08.30 – 19.00
+    \n\tSaturday from 08.30 – 19.00
+    \nGrand Bazaar Closed :
+    \nSunday and religious holidays and bank holidays.</string>
+    <string name="grand_phone">+90 212 519 12 48</string>
+    <string name="grand_web">http://kapalicarsi.com.tr/</string>
+    <string name="egyptian_bazaar"> Egyptian Bazaar </string>
+    <string name="egyptian_des"> The origin of the Turkish word “çarşı” comes from the Persian word “Cahar” (meaning four the number) and “Su” (meaning district, street). Serving as a shopping mall with its wide range of stores, the Egyptian Bazaar is a complement of covered and open streets and squares which are suitably located in well-trodden streets in the center of the city. The temporary ones of the bazaars, located in various streets of big cities, are called as marketplaces. The collocation of the stores according to the goods and products they sell led to the emergence of such names as  Shoe Seller Bazaar and Jewelry Bazaar. Comprising of a main street and side streets connected to it, bazaars constitute the most active urban area of a city all day long.
+    \n<b>Open :</b> Daily from 08:00 – 19:30
+    \n<b>Closed : </b> October 29th and the full duration of religious holidays </string>
+    <string name="egyptian_phone">+90 212 513 65 97</string>
+    <string name="egyptian_web">http://www.misircarsisi.org.tr/default.asp?LanguageID=2</string>
+    <string name="hagiasphia">Hagia Sophia</string>
+    <string name="hagia_des">Hagia Sophia is a former Greek Orthodox Christian patriarchal basilica,later an Ottoman imperial mosque and now a museum in Istanbul, Turkey.\nOpen 09.00 to 17.00</string>
+    <string name="hagia_phone">+90 212 522 17 50</string>
+    <string name="hagia_web">https://www.hagiasophia.com/</string>
+    <string name="basilica_cistern"> Basilica Cistern </string>
+    <string name="basilica_des">One of the magnificent ancient buildings of İstanbul is the Basilica Cistern located in the southwest of Hagia Sofia. Constructed for Justinianus I, the Byzantium Emperor (527-565), this big underground water reservoir is called as “Yerebatan Cistern” among the public because of the underground marble columns. As there used to be a basilica in the place of the cistern, it is also called Basilica Cistern.
+    \n<b>Medusa Heads</b>
+    \nExcept couple of the edged and grooved columns of the cistern, majority of them are shaped as a cylinder. Two Medusa heads, which are used as supports under the two columns at the northwest edge of the cistern, are the great work of art from the Roman period. What attracts most attention from the visitors is that the structure from which the Medusa heads have been taken is unknown. The researchers often consider that it has been brought for being used as supports to the column at the time of construction of the cistern.  However, this has not prevented myths for the heads of Medusa.
+    \n<b> Open :</b> Daily from 09:00-18:30 </string>
+    <string name="basilica_phone">+90 212 512 15 70</string>
+    <string name="basilica_web">http://yerebatan.com/</string>
+    <string name="topkapi_palace"> Topkapı Palace </string>
+    <string name="topkapi_des"> Topkapı Palace was not only the  residence of the Ottoman sultans, but also the administrative and educational centre of the state. Initially constructed between 1460 and 1478 by Sultan Mehmed II, the conqueror of Constantinople, and expanded upon and altered many times throughout its long history, the palace served as the home of the Ottoman sultans and their court until the middle of the 19th century. In the early 1850s, the palace became inadequate to the requirements of state ceremonies and protocol, and so the sultans moved to Dolmabahçe Palace, located on the Bosphorus. Despite this move, the royal treasure, the Holy Relics of the Prophet Muhammad, and the imperial archives continued to be preserved at Topkapı, and-since the palace was the ancestral residence of the Ottoman dynasty as well as the place where the Holy Relics were preserved-Topkapı continued to play host to certain state ceremonies. Following the abolishment of the Ottoman monarchy in 1922,
+        Topkapı Palace was converted into a museum on April 3rd 1924, on the order of Mustafa Kemal Atatürk.\n <b>Open :</b> 09:00- 16:45 </string>
+    <string name="topkapi_phone">+90 212 512 04 80</string>
+    <string name="topkapi_web">//topkapisarayi.gov.tr/en</string>
+    <string name="dolmabahce">Dolmabahçe Palace </string>
+    <string name="dolmabahce_des">Dolmabahce Palace built in 19 th century is one of the most glamorous palaces in the world.It was the administrative center of the late Ottoman Empire with the last of Ottoman Sultans was residing there.
+        After the foundation of the Turkish Republic in Ankara, Mustafa Kemal Ataturk transferred all government functions to the youthful capital but on his visits to Istanbul Ataturk occupied only a small room at Dolmabahce Palace as his own. He stayed, welcomed his foreign guests and made a practical center for national, historical and language congress and for international conferences.
+\n <b>Open: </b> Tuesday to Sunday from 09:00–16:00
+\n <b>Close: </b> Monday and religious holidays and bank holidays.
+ </string>
+    <string name="dolmabahce_phone">+90 212 236 90 00</string>
+    <string name="dolmabahce_web">http://www.millisaraylar.gov.tr/</string>
+    <string name="mosque">Mosque</string>
+    <string name="blue_mosque"> Blue Mosque </string>
+    <string name="blue_des">The Blue Mosque (Called Sultanahmet Camii in Turkish) is an historical mosque in Istanbul. The mosque is known as the Blue Mosque because of blue tiles surrounding the walls of interior design.Mosque was built between 1609 and 1616 years, during the rule of Ahmed I. just like many other mosques, it also comprises a tomb of the founder, a madrasa and a hospice.Besides still used as a mosque, the Sultan Ahmed Mosque has also become a popular tourist attraction in Istanbul.
+\n\t<b>Opening Times</b>\t  /\t <b>Closing Times</b>
+\n\t\t08:30\t\t\t                        11:30
+\n\t\t          13:00    \t\t\t                     14:30
+\n  \t\t        15:30      \t\t\t                  16:45
+\n \t    <b> Opening For Friday</b>
+\n \t\t           13:30</string>
+    <string name="blue_phone">+90 212 518 13 19</string>
+    <string name="blue_web">http://www.sultanahmetcamii.org/</string>
+    <string name="maidens_tower">Maiden\'s Tower</string>
+    <string name="maidens_des">The Maiden’s Tower is located 150-200 meters off the shore of the Salacak district in Üsküdar. Although it is not definite as to when the Maiden’s Tower was built, the tower’s architectural style is said by some sources to be from around 340 BCE.
+    Previous names of the Maiden’s Tower were Damalis and Leandros. Damalis is the name of the wife of the king of Athens,Kharis. When Damalis died, she was buried on the shore, and the name Damalis was given to the Tower. It was also known during Byzantine times as “arcla” which means “a little castle.”
+    After the conquest of Istanbul by the Ottoman Turks, the tower was pulled down and a wooden tower was constructed in its place. The wooden tower was destroyed by a fire in 1719. It was rebuilt from stone once again by the head architect of the city, Nevşehirli Damat İbrahim Paşa. The cone-capped part of the tower was taken away and a kiosk fitted with glass replaced it. A lead-covered dome was later added to the kiosk. Rakım Efendi, a famous calligrapher, added an inscription with Sultan Mahmut II’s  signature on marble and placed it above tower’s door. A lantern was added to the tower in 1857, and in 1920,
+    the tower’s light was a converted into an automatic lighting system.
+    \n<b>Open: </b> 365 day in a year, from  09:00 a.m to 19:00 p.m
+    \n <b> Transportation: </b>
+    \n SALACAK / ÜSKÜDAR - MAIDEN'S TOWER : Boat services are  09:15 a.m. to 18:30 p.m. at every fifteen minutes.
+    \n KABATAŞ / KIZKULESİ :  Weekdays,ring services ever hours from 12:00-18:00 (From 15th  june)
+    \n KABATAŞ / KIZKULESİ :  Weekends,ring services ever hours from 10:00-18:00   </string>
+    <string name="maidens_phone">+90 216 342 47 47</string>
+    <string name="maidens_web">http://www.kizkulesi.com.tr/Home</string>
+    <string name="old_ist">Old Istanbul Cuisine</string>
+    <string name="old_ist_des">Turkis Cuisine
+    Open 10:10 to 23:55</string>
+    <string name="old_ist_phone">+90 534 263 98 46</string>
+    <string name="old_ist_web">https://www.facebook.com/Oldistanbulcuisine/</string>
+    <string name="tashkonak">Tashkonak Hotel</string>
+    <string name="tash_des">This well known Tashkonak hotel is located in the heart of old city of Sultanahmet 
+        in Istanbul and is within an easy five minute walk to the Blue Mosque, Hagia Sophia and Topkapi Palace.</string>
+    <string name="tash_phone">+90 212 518 28 82</string>
+    <string name="tash_web">http://www.hoteltashkonak.com/</string>
+    <string name="celal_sultan">Celal Sultan Hotel</string>
+    <string name="celal_des">Located in the most ancient part of Istanbul, the former capital of the Byzantine
+        and Ottoman Empire.</string>
+    <string name="celal_phone">+90 212 520 93 23</string>
+    <string name="celal_web">http://www.celalsultan.com/</string>
+    <string name="sura_hagia">Sura Hagia Sophia Hotel</string>
+    <string name="sura_des">Sura Hagia Sophia Hotel offers a perfect accommodation in Istanbul.
+        The sophisticated hotel is set in an ancient building in the heart of Istanbul</string>
+    <string name="sura_phone">+90 212 522 32 00</string>
+    <string name="sura_web">https://surahotels.com/sura-hagia-sophia-hotel</string>
+    <string name="sultanahmet_kofte">Historic Sultanahmet Köftecisi</string>
+    <string name="kofte_des">To complete a Sultanahmet sightseeing, you should stop at the historical köfte (meatball) restaurant at Divanyolu Street:12.
+    Named Tarihi Sultanahamet Köftecisi Selim Usta restaurant serves köfte and piyaz,bean salad.\n <b>Open</b> 10.30 to 23.00</string>
+    <string name="kofte_phone">"+90 212 513 64 68"</string>
+    <string name="kofte_web">http://www.sultanahmetkoftesi.com/</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VolleyBallScoreKeeper</string>
+    <string name="point">1 point</string>
+    <string name="warn">Warning</string>
+    <string name="fault">Fault</string>
+    <string name="reset">Reset</string>
+    <string name="result">Result</string>
+    <string name="a">Team A</string>
+    <string name="b">Team B</string>
+</resources>

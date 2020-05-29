@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#303F9F</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#03A9F4</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="styleOne" tools:targetApi="jelly_bean">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">cursive</item>
+    </style>
+    <style name="styleTwo" tools:targetApi="jelly_bean">
+        <item name="android:textColor">#dc333538</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:fontFamily">cursive</item>
+    </style>
+    <style name="styleButtonOne">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginLeft">@dimen/smallSpace</item>
+        <item name="android:layout_marginRight">@dimen/smallSpace</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:textColor">@color/colorButtonText</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="styleScoreOne">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:text">0</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="styleScoreTwo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:text">0</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="styleScoreThree" tools:targetApi="jelly_bean">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textColor">@color/colorTeam</item>
+        <item name="android:layout_marginBottom">@dimen/mediumSpace</item>
+        <item name="android:layout_marginTop">@dimen/mediumSpace</item>
+    </style>
+    <style name="styleScoreFour">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/mediumSpace</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:text">0</item>
+        <item name="android:textColor">@color/colorScore</item>
+    </style>
+</resources>

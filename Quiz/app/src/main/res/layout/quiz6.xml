@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.quiz.Quiz">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/bts_heart" />
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/q"
+            style="@style/styleCard"
+            card_view:cardBackgroundColor="@color/background"
+            card_view:cardCornerRadius="10dp"
+            card_view:cardElevation="@dimen/normalSpacing">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/normalSpacing"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/style4"
+                    android:text="@string/question6" />
+
+                <pl.droidsonroids.gif.GifImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:src="@mipmap/legendary"
+                    android:layout_marginBottom="@dimen/smallSpacing"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:background="#000000"></View>
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/answer"
+                    android:orientation="vertical">
+
+                    <RadioButton
+                        android:id="@+id/q6a"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/q6a" />
+
+                    <RadioButton
+                        android:id="@+id/q6b"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/q6b" />
+
+                    <RadioButton
+                        android:id="@+id/q6c"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/q6c" />
+
+                    <RadioButton
+                        android:id="@+id/q6d"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/q6d" />
+
+                </RadioGroup>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <Button
+            android:layout_below="@id/q"
+            android:onClick="next6"
+            style="@style/style2"/>
+
+
+    </RelativeLayout>
+</ScrollView>

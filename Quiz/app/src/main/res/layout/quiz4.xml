@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.quiz.Quiz">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/bts_heart" />
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/q"
+            style="@style/styleCard"
+            card_view:cardBackgroundColor="@color/background"
+            card_view:cardCornerRadius="10dp"
+            card_view:cardElevation="@dimen/normalSpacing">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/normalSpacing"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/style4"
+                    android:text="@string/question4" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:background="#000000"></View>
+
+
+                <CheckBox
+                    android:id="@+id/q4a"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/q4a" />
+
+                <CheckBox
+                    android:id="@+id/q4b"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/q4b" />
+
+                <CheckBox
+                    android:id="@+id/q4c"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/q4c" />
+
+                <CheckBox
+                    android:id="@+id/q4d"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/q4d" />
+
+                <CheckBox
+                    android:id="@+id/q4e"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/q4e" />
+
+                <CheckBox
+                    android:id="@+id/q4f"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/q4f" />
+
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <Button
+            style="@style/style2"
+            android:layout_below="@id/q"
+            android:onClick="next4" />
+
+
+    </RelativeLayout>
+</ScrollView>

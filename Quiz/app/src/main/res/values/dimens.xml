@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="shortDis">20dp</dimen>
+    <dimen name="longDis">30dp</dimen>
+
+    <dimen name="smallSpacing">8dp</dimen>
+    <dimen name="normalSpacing">16dp</dimen>
+    <dimen name="largeSpacing">25dp</dimen>
+</resources>

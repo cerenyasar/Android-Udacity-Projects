@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="bts">How Well Do You Know BTS?</string>
+    <string name="enter_name">What\'s your name?</string>
+    <string name="start_button">Start</string>
+    <string name="next">Next</string>
+    <string name="question1">Who is the handsome devil who sets the poor man on fire?</string>
+    <string name="q1a">V</string>
+    <string name="q1b">Jimin</string>
+    <string name="q1c">Suga</string>
+    <string name="q1d">Rap Monster</string>
+    <string name="question2">What is RM\'s nickname?</string>
+    <string name="q2a">Monster,Namjoonie,Blondie</string>
+    <string name="q2b">God Of Destruction, Rap Mon, Leader Mon</string>
+    <string name="q2c">Tough Guy,Monnie</string>
+    <string name="question3">By how many votes did BTS win the Top Social Award at the Billboard Music Awards?</string>
+    <string name="q3a">333 million</string>
+    <string name="q3b">300 million</string>
+    <string name="q3c">3 million</string>
+    <string name="q3d">30 million</string>
+    <string name="question4">Which book or books did RM recommend the following?</string>
+    <string name="q4a">Almost Transparent</string>
+    <string name="q4b">Demian</string>
+    <string name="q4c">The Ones Who walks Away from Omelas</string>
+    <string name="q4d">Lord Of the Files</string>
+    <string name="q4e">Catcher in the Rye</string>
+    <string name="q4f">The Dispossessed</string>
+    <string name="question5">What does ARMY stand for?</string>
+    <string name="q5a">Adorable Role Model for Youth</string>
+    <string name="q5b">Adorable Representative Military for Youth</string>
+    <string name="q5c">Adult Representative MC for Youth</string>
+    <string name="q5d">Adorable Representative MC for Youth</string>
+    <string name="question6">What time is the legendary dance break in the \'Fire\' MV?</string>
+    <string name="q6a">3.03</string>
+    <string name="q6b">3.12</string>
+    <string name="q6c">3.18</string>
+    <string name="q6d">3.33</string>
+    <string name="question7">Suga throws something in \'Spring Day\' MV. What is it?</string>
+    <string name="q7a">Cake</string>
+    <string name="q7b">Basketball</string>
+    <string name="q7c">Chips</string>
+    <string name="q7d">Clothes</string>
+    <string name="question8">Which song did BTS perform in American Music Awards?</string>
+    <string name="q8a">Not Today</string>
+    <string name="q8b">DNA</string>
+    <string name="q8c">Mic Drop</string>
+    <string name="q8d">No More Dream</string>
+    <string name="question9">Which song did BTS manage their first  win on a music program?</string>
+    <string name="q9a">Boy in Luv</string>
+    <string name="q9b">Run</string>
+    <string name="q9c">I NEED U</string>
+    <string name="q9d">Dope</string>
+    <string name="question10">Which song did BTS film self-made musci video for fan fave?</string>
+    <string name="answer">Answer</string>
+    <string name="submit">Submit</string>
+    <string name="startOver">Start Over</string>
+    <string name="result5">You did great job. As Suga said you are Min suga genius jjang jjang man
+        boong boong. :) In human language, you are genius. You are one of the best fans!</string>
+    <string name="result4">You were very good.Let\'s dance and celebrate!!</string>
+    <string name="result3">Now you got my attention. I\'m waiting more things from you.</string>
+    <string name="result2">I just wanna hug you like V did. You tried. Don\'t worry and try again.</string>
+    <string name="result1">As RM said \'you got no jams\' . Sorry, dear. You didn\'t do great job. :(
+        But don\'t be sad. You can try again. </string>
+    <string name="forget">You forgot to select</string>
+
+</resources>

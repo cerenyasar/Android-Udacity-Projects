@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="shortDistance">10dp</dimen>
+    <dimen name="mediumDistance">30dp</dimen>
+    <dimen name="longDistance">50dp</dimen>
+    <dimen name="categoryTextSize">14sp</dimen>
+    <dimen name="listViewDistance">16dp</dimen>
+
+
+</resources>

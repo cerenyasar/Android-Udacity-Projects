@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="THE_API_TOKEN"><![CDATA[https://content.guardianapis.com/search?q=%22biotechnology%22&show-tags=contributor&api-key=test]]></string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="categories">
+        <item name="android:textColor">@color/colorOfCategory</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">@dimen/categoryTextSize</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:layout_marginRight">@dimen/shortDistance</item>
+        <item name="android:layout_marginTop">@dimen/shortDistance</item>
+        <item name="android:layout_marginLeft">@dimen/shortDistance</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>
