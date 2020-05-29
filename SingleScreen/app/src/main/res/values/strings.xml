@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SingleScreen</string>
+    <string name="address">Barbaros Bulvarı \n34349 Yıldız-İstanbul</string>
+    <string name="phone">0212 383 70 70</string>
+    <string name="fax">0212 383 40 11</string>
+    <string name="website">www.yildiz.edu.tr</string>
+    <string name="ytu">Yıldız Technical University</string>
+</resources>
